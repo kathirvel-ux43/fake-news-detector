@@ -51,4 +51,3 @@ git commit -m "Add fake news detector with ML model and GUI"
 
 # 6. Push to GitHub
 git push origin main
-```
